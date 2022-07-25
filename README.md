@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tOskr-uk
-- 👀 I’m interested in HTML, CSS and JS
-- 🌱 I’m currently learning NodeJS
+- 👀 I’m interested in HTML, CSS, JS and PHP
 - 📫 How to reach me ...
 
 <!---
